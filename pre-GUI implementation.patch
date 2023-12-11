@@ -1,0 +1,17 @@
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main.py b/main.py
+--- a/main.py	
++++ b/main.py	(date 1702254061662)
+@@ -46,7 +46,7 @@
+ 
+         # Accepts input from the user to be stored in memory, and iterated through for conversion.
+ 
+-        print("Function build end.")
++        print("Function build begin.")
+ 
+         plaintext_user = input("Type in some stuff.")
+ 
